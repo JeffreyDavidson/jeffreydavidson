@@ -2,13 +2,22 @@
 
 I'm a backend-focused software engineer with a strong foundation in PHP, primarily building scalable and maintainable applications with the Laravel framework. I’m passionate about clean code, performance optimization, and building solutions that solve real problems.
 
+I also enjoy teaching and mentoring developers at all stages of their careers. I recently started a YouTube channel focused on sharing Laravel tips, development workflows, and clean coding practices. My goal is to offer practical guidance that sticks to best practices while helping others grow in confidence and skill.
+
 I'm always open to collaboration and new opportunities to learn and grow. Feel free to explore my repositories or reach out!
 
 Connect with me on:
-- [Twitter](https://twitter.com/jdavidsonwebdev)
+- [X (formally Twitter)](https://x.com/jdavidsonwebdev)
 - [Instagram](https://www.instagram.com/jdavidsonwebdev)
 - [LinkedIn](https://www.linkedin.com/in/jdavidsonwebdev)
 - [Facebook](https://www.facebook.com/jdavidsonwebdev)
+- [Bluesky](https://bsky.app/profile/jdavidsonwebdev.bsky.social)
+- [Mastadon](https://phpc.social/@jdavidsonwebdev)
+
+<br>
+
+- [Youtube)](https://www.youtube.com/@thelaravelarchitect)
+- [Podcast](https://coffeewiththelaravelarchitect.buzzsprout.com)
 
 <br>
 
@@ -58,6 +67,10 @@ The goal is to provide:
 - A smoother, more intuitive academic experience for students
 
 Campus-Sync is currently in the planning and early development stages, with public updates shared regularly as the project evolves.
+
+---
+
+Thanks for stopping by! Feel free to explore my repos, check out the podcast and youtube channel, or get in touch.
 
 <br>
 
