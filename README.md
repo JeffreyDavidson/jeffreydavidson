@@ -42,7 +42,7 @@ Connect with me on:
 
 ## 🚀 Projects
 
-- **Ringside** – A Laravel-based platform built specifically for the professional wrestling entertainment industry. Ringside provides wrestling promoters with a centralized system to manage rosters, championship titles, and events.
+- **[Ringside](https://github.com/JeffreyDavidson/Ringside)** – A Laravel-based platform built specifically for the professional wrestling entertainment industry. Ringside provides wrestling promoters with a centralized system to manage rosters, championship titles, and events.
 
   Key features include:
   - Roster management with detailed competitor profiles
@@ -54,7 +54,7 @@ Connect with me on:
 
   <br>
 
-- **inertia-forum** – A modern forum application built using the Inertia.js stack. This project allows users to sign up, create posts on message boards, and engage in community discussions through categorized and tagged posts.
+- **[Inertia Forum](https://github.com/JeffreyDavidson/inertia-forum)** – A modern forum application built using the Inertia.js stack. This project allows users to sign up, create posts on message boards, and engage in community discussions through categorized and tagged posts.
 
   Key features include:
   - User authentication with sign-up and login
@@ -68,7 +68,7 @@ Connect with me on:
 
 ## 🏫 Upcoming Project: Campus-Sync
 
-**Campus-Sync** is a student-focused academic planning platform designed to streamline class enrollment and degree progress tracking. Built with the **TALL stack** (Tailwind CSS, Alpine.js, Laravel, and Livewire), the app aims to simplify how students manage their academic paths.
+**[Campus Sync](https://github.com/JeffreyDavidson/campus-sync)** is a student-focused academic planning platform designed to streamline class enrollment and degree progress tracking. Built with the **TALL stack** (Tailwind CSS, Alpine.js, Laravel, and Livewire), the app aims to simplify how students manage their academic paths.
 
 The goal is to provide:
 - A centralized portal for course registration
